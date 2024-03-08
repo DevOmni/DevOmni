@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevOmni
 - 👀 I’m interested in Old things, mono fonts, archiving stuff
 - 🌱 I’m currently learning Python | cpp/c | js
-- 💞️ I’m looking to collaborate on Web app
+- 🤝 I’m looking to collaborate on Web app
 - 📫 How to reach me gdimmortaldev@gmail.com
 
 <!---
